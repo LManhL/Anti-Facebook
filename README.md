@@ -59,7 +59,7 @@ Make sure you have the following tools installed on your system:
 - [Git](https://git-scm.com/book/en/v2/Getting-Started-Installing-Git)
 
 # Clone the Repository
-git clone https://github.com/yourusername/anti-facebook-project.git
+git clone https://github.com/LManhL/Anti-Facebook.git
 cd anti-facebook-project
 
 # App Preview
