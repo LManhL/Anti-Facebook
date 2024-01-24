@@ -58,13 +58,11 @@ Make sure you have the following tools installed on your system:
 - [Firebase CLI](https://firebase.google.com/docs/cli#install-cli-mac-linux)
 - [Git](https://git-scm.com/book/en/v2/Getting-Started-Installing-Git)
 
-## Clone the Repository
-
-```bash
+# Clone the Repository
 git clone https://github.com/yourusername/anti-facebook-project.git
 cd anti-facebook-project
 
+# App Preview
 
-# App preview
 ![Frame 37 (1)](https://github.com/LManhL/Anti-Facebook/assets/95266634/eaa37688-8239-4aaf-ada9-ca7aac1a4329)
 
