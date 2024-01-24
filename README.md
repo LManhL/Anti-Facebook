@@ -60,7 +60,6 @@ Make sure you have the following tools installed on your system:
 
 # Clone the Repository
 git clone https://github.com/LManhL/Anti-Facebook.git
-cd anti-facebook-project
 
 # App Preview
 
